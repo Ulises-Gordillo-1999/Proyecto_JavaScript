@@ -1,0 +1,6 @@
+[{"id": 7,"nombre": "Kioto, Japón","imagen": "images/kioto_japon.jpeg","categoria": "Ejecutivo","precio": "$1500"},
+{"id": 8,"nombre": "Chiang Mai, Tailandia","imagen": "images/chiang mai, tailandia.jpg","categoria": "Ejecutivo","precio": "$2000"},
+{"id": 9,"nombre": "San Miguel de Allende, México","imagen": "images/San-Miguel-de-Allende.jpg","categoria": "Ejecutivo","precio": "$2500"}, 
+{"id": 10,"nombre": "Roma, Italia","imagen": "images/Roma, Italia.jpg","categoria": "Ejecutivo","precio": "$3000"}, 
+{"id": 11,"nombre": "Paris, francia","imagen": "images/Paris, francia.jpg","categoria": "Ejecutivo","precio": "$3500"}, 
+{"id": 12,"nombre": "Barcelona, España","imagen": "images/Barcelona, España.jpg","categoria": "Ejecutivo","precio": "$4000"}]
