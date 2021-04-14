@@ -28,8 +28,3 @@ function cargar_datos(){
     
     console.log("Usuario: " + nombre + "\nEmail:  " + email + "\nCelular: " + telefono + "\nConsulta: " + consulta);
 }
-//Mostrar divs 
-/*var divs = $ ("div");
-for (var i=0; i<divs.length; i++){
-    console.log(divs[i]);
-}*/
