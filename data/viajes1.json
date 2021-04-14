@@ -1,6 +1,6 @@
-[{"id": 7,"nombre": "Kioto, Japón","imagen": "images/kioto_japon.jpeg","URL_viaje": "https://es.wikipedia.org/wiki/Kioto","categoria": "Ejecutivo","precio": "$1500"},
-{"id": 8,"nombre": "Chiang Mai, Tailandia","imagen": "images/chiang mai, tailandia.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Chiang_Mai","categoria": "Ejecutivo","precio": "$2000"},
-{"id": 9,"nombre": "San Miguel de Allende, México","imagen": "images/San-Miguel-de-Allende.jpg","URL_viaje":"https://es.wikipedia.org/wiki/San_Miguel_de_Allende","categoria": "Ejecutivo","precio": "$2500"}, 
-{"id": 10,"nombre": "Roma, Italia","imagen": "images/Roma, Italia.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Roma","categoria": "Ejecutivo","precio": "$3000"}, 
-{"id": 11,"nombre": "Paris, francia","imagen": "images/Paris, francia.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Par%C3%ADs","categoria": "Ejecutivo","precio": "$3500"}, 
-{"id": 12,"nombre": "Barcelona, España","imagen": "images/Barcelona, España.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Barcelona","categoria": "Ejecutivo","precio": "$4000"}]
+[{"id": 7,"nombre": "Kioto, Japón","imagen": "images/kioto_japon.jpeg","URL": "https://es.wikipedia.org/wiki/Kioto","categoria": "Ejecutivo","precio": "$1500"},
+{"id": 8,"nombre": "Chiang Mai, Tailandia","imagen": "images/chiang mai, tailandia.jpg","URL":"https://es.wikipedia.org/wiki/Chiang_Mai","categoria": "Ejecutivo","precio": "$2000"},
+{"id": 9,"nombre": "San Miguel de Allende, México","imagen": "images/San-Miguel-de-Allende.jpg","URL":"https://es.wikipedia.org/wiki/San_Miguel_de_Allende","categoria": "Ejecutivo","precio": "$2500"}, 
+{"id": 10,"nombre": "Roma, Italia","imagen": "images/Roma, Italia.jpg","URL":"https://es.wikipedia.org/wiki/Roma","categoria": "Ejecutivo","precio": "$3000"}, 
+{"id": 11,"nombre": "Paris, francia","imagen": "images/Paris, francia.jpg","URL":"https://es.wikipedia.org/wiki/Par%C3%ADs","categoria": "Ejecutivo","precio": "$3500"}, 
+{"id": 12,"nombre": "Barcelona, España","imagen": "images/Barcelona, España.jpg","URL":"https://es.wikipedia.org/wiki/Barcelona","categoria": "Ejecutivo","precio": "$4000"}]
