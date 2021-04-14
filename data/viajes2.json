@@ -1,6 +1,6 @@
-[{"id": 13,"nombre": "Kioto, Japón","imagen": "images/kioto_japon.jpeg","categoria": "Primera clase","precio": "$2000"}, 
-{"id": 14,"nombre": "Chiang Mai, Tailandia","imagen": "images/chiang mai, tailandia.jpg","categoria": "Primera clase","precio": "$2500"}, 
-{"id": 15,"nombre": "San Miguel de Allende, México","imagen": "images/San-Miguel-de-Allende.jpg","categoria": "Primera clase","precio": "$3000"}, 
-{"id": 16,"nombre": "Roma, Italia","imagen": "images/Roma, Italia.jpg","categoria": "Primera clase","precio": "$3500"}, 
-{"id": 17,"nombre": "Paris, francia","imagen": "images/Paris, francia.jpg","categoria": "Primera clase","precio": "$4000"}, 
-{"id": 18,"nombre": "Barcelona, España","imagen": "images/Barcelona, España.jpg","categoria": "Primera clase","precio": "$4500"}] 
+[{"id": 13,"nombre": "Kioto, Japón","imagen": "images/kioto_japon.jpeg","URL_viaje": "https://es.wikipedia.org/wiki/Kioto","categoria": "Primera clase","precio": "$2000"}, 
+{"id": 14,"nombre": "Chiang Mai, Tailandia","imagen": "images/chiang mai, tailandia.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Chiang_Mai","categoria": "Primera clase","precio": "$2500"}, 
+{"id": 15,"nombre": "San Miguel de Allende, México","imagen": "images/San-Miguel-de-Allende.jpg","URL_viaje":"https://es.wikipedia.org/wiki/San_Miguel_de_Allende","categoria": "Primera clase","precio": "$3000"}, 
+{"id": 16,"nombre": "Roma, Italia","imagen": "images/Roma, Italia.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Roma","categoria": "Primera clase","precio": "$3500"}, 
+{"id": 17,"nombre": "Paris, francia","imagen": "images/Paris, francia.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Par%C3%ADs","categoria": "Primera clase","precio": "$4000"}, 
+{"id": 18,"nombre": "Barcelona, España","imagen": "images/Barcelona, España.jpg","URL_viaje":"https://es.wikipedia.org/wiki/Barcelona","categoria": "Primera clase","precio": "$4500"}] 
